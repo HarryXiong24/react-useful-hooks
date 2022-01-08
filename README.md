@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> react-useful-hooks.
+> A useful react hooks collection.
 
 ### 🏠 [Homepage](https://github.com/HarryXiong24/react-useful-hooks)
 
